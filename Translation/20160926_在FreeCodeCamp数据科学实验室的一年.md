@@ -49,6 +49,8 @@ git聊天室已经成为欢迎新营员、请求编程帮助和整合开源项�
 在freeCodeCamp所有的聊天室中，最集中的聊天室 [(FreeCodeCamp/FreeCodeCamp)](https://www.gitter.im/freecodecamp/freecodecamp) 是最受欢迎的。至少每分钟会有一个消息，高峰时间甚至会蹦出６到９条消息每分钟蹦出来。
 FCC Gitter Room Visualization
 
+<iframe frameborder="0" width="640" height="498" src="http://v.qq.com/iframe/player.html?vid=q03317si3fn&tiny=0&auto=0" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KM-VY4z_PLY" frameborder="0" allowfullscreen></iframe>
 
 Real Time data visualization of calling other users in the main chat room. This social network representation uses d3.js, node.js, and sockets, and was built by Koustuv Sinha and myself.
