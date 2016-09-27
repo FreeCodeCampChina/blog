@@ -6,7 +6,7 @@ freeCodeCamp China 招募翻译志愿者，大部分内容选自https://medium.f
 大家也可以推荐你们认为优秀的文章，感兴趣的小伙伴们欢迎加入
 todo
 >1. ~~[Open Source for Good](https://medium.freecodecamp.com/open-source-for-good-1a0ea9f32d5a)~~
-2. [One year in the Free Code Camp Data Science Room](https://medium.freecodecamp.com/one-year-experience-in-the-free-code-camp-data-science-room-c97eb905af1f)
+2. ~~[One year in the Free Code Camp Data Science Room](https://medium.freecodecamp.com/one-year-experience-in-the-free-code-camp-data-science-room-c97eb905af1f)~~
 3. freeCodeCamp特别的圣诞：送给开源数据的礼物
 [Free Code Camp Christmas Special: Giving the Gift of Open Data](https://medium.freecodecamp.com/free-code-camp-christmas-special-giving-the-gift-of-data-6ecbf0313d62)
 4. ~~[We asked 15,000 people who they are, and how they’re learning to code](https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781)~~
