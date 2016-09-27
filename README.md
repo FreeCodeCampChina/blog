@@ -4,7 +4,7 @@ FreeCodeCampChina博客致力于引进FCC官方博客优秀内容、发掘国内
 内容来源自两部分：翻译和原创。
 
 ## Translation: 翻译
-FreeCodeCampChina 招募翻译志愿者，大部分内容选自FCC官方博客：https://medium.freecodecamp.com
+FreeCodeCampChina 正在招募翻译志愿者，内容来源自[FCC官方博客](https://medium.freecodecamp.com)
 
 需要翻译的文章：
 
@@ -22,7 +22,7 @@ FreeCodeCampChina 招募翻译志愿者，大部分内容选自FCC官方博客�
 
 1、[Open Source for Good](https://medium.freecodecamp.com/open-source-for-good-1a0ea9f32d5a)
 
-2、[One year in the Free Code Camp Data Science Room](https://medium.freecodecamp.com/one-year-experience-in-the-free-code-camp-data-science-room-c97eb905af1f
+2、[One year in the Free Code Camp Data Science Room](https://medium.freecodecamp.com/one-year-experience-in-the-free-code-camp-data-science-room-c97eb905af1f)
 
 3、[We asked 15,000 people who they are, and how they’re learning to code](https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781)
 
