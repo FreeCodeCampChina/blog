@@ -14,9 +14,10 @@ FreeCodeCampChina 正在招募翻译志愿者，内容来源自[FCC官方博客]
 
 * [So Yeah We Tried Slack… and We Deeply Regretted It](https://medium.freecodecamp.com/so-yeah-we-tried-slack-and-we-deeply-regretted-it-391bcc714c81)
 
-* [With open data, you finally get what you’ve paid for all these years](https://medium.freecodecamp.com/with-open-data-you-finally-get-what-your-taxes-already-paid-for-6f1990d98e9#.uve55q7zk)
-
 * [How I built a mailing list signup form right into Medium using Google Forms](https://medium.freecodecamp.com/how-to-add-mailing-list-signup-to-your-medium-stories-using-google-forms-c717393b2f6#.bpyb8vafd) 
+
+翻译中的文章：
+* [With open data, you finally get what you’ve paid for all these years](https://medium.freecodecamp.com/with-open-data-you-finally-get-what-your-taxes-already-paid-for-6f1990d98e9#.uve55q7zk) (译者：[yeszhangyi](https://github.com/yeszhangyi))
 
 已翻译的文章：
 
