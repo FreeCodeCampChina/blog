@@ -14,15 +14,18 @@ FreeCodeCampChina 正在招募翻译志愿者，内容来源自[FCC官方博客]
 
 * [So Yeah We Tried Slack… and We Deeply Regretted It](https://medium.freecodecamp.com/so-yeah-we-tried-slack-and-we-deeply-regretted-it-391bcc714c81)
 
-* [With open data, you finally get what you’ve paid for all these years](https://medium.freecodecamp.com/with-open-data-you-finally-get-what-your-taxes-already-paid-for-6f1990d98e9#.uve55q7zk)
-
 * [How I built a mailing list signup form right into Medium using Google Forms](https://medium.freecodecamp.com/how-to-add-mailing-list-signup-to-your-medium-stories-using-google-forms-c717393b2f6#.bpyb8vafd) 
 
+<<<<<<< HEAD
 * [We asked 15,000 people who they are, and how they’re learning to code](https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781)需要校对、重新排版
 
 * [Kopernik: A Nonprofit Project Retrospective](https://medium.freecodecamp.com/kopernik-retrospective-68685371b00b#.fkbnhehge)需要校对、重新排版
 
 * [Free Code Camp Now Has an Official Theme Song](https://medium.freecodecamp.com/free-code-camp-now-has-an-official-theme-song-97765270d2bd?swoff=true#.11vmgznjx)需要校对、重新排版
+=======
+翻译中的文章：
+* [With open data, you finally get what you’ve paid for all these years](https://medium.freecodecamp.com/with-open-data-you-finally-get-what-your-taxes-already-paid-for-6f1990d98e9#.uve55q7zk) (译者：[yeszhangyi](https://github.com/yeszhangyi))
+>>>>>>> da3dec91b5a0ddc0d466ffae05a2cc4f8218533b
 
 已翻译的文章：
 
