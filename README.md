@@ -18,13 +18,18 @@ FreeCodeCampChina 正在招募翻译志愿者，内容来源自[FCC官方博客]
 
 * [How I built a mailing list signup form right into Medium using Google Forms](https://medium.freecodecamp.com/how-to-add-mailing-list-signup-to-your-medium-stories-using-google-forms-c717393b2f6#.bpyb8vafd) 
 
+* [We asked 15,000 people who they are, and how they’re learning to code](https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781)需要校对、重新排版
+
+* [Kopernik: A Nonprofit Project Retrospective](https://medium.freecodecamp.com/kopernik-retrospective-68685371b00b#.fkbnhehge)需要校对、重新排版
+
+* [Free Code Camp Now Has an Official Theme Song](https://medium.freecodecamp.com/free-code-camp-now-has-an-official-theme-song-97765270d2bd?swoff=true#.11vmgznjx)需要校对、重新排版
+
 已翻译的文章：
 
 * [Open Source for Good](https://medium.freecodecamp.com/open-source-for-good-1a0ea9f32d5a)
 
 * [One year in the Free Code Camp Data Science Room](https://medium.freecodecamp.com/one-year-experience-in-the-free-code-camp-data-science-room-c97eb905af1f)
 
-* [We asked 15,000 people who they are, and how they’re learning to code](https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781)
 
 # 如何参与翻译
 
