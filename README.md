@@ -19,6 +19,8 @@ FreeCodeCampChina 正在招募翻译志愿者，内容来源自[FCC官方博客]
 翻译中的文章：
 * [With open data, you finally get what you’ve paid for all these years](https://medium.freecodecamp.com/with-open-data-you-finally-get-what-your-taxes-already-paid-for-6f1990d98e9#.uve55q7zk) (译者：[yeszhangyi](https://github.com/yeszhangyi))
 
+* [Free Code Camp Christmas Special: Giving the Gift of Open Data](https://medium.freecodecamp.com/free-code-camp-christmas-special-giving-the-gift-of-data-6ecbf0313d62) (译者：[Laily123](https://github.com/Laily123))
+
 需要校对、重新排版
 * [We asked 15,000 people who they are, and how they’re learning to code](https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781)
 
