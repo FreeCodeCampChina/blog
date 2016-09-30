@@ -19,9 +19,8 @@ FreeCodeCampChina 正在招募翻译志愿者，内容来源自[FCC官方博客]
 
 * [Free Code Camp Christmas Special: Giving the Gift of Open Data](https://medium.freecodecamp.com/free-code-camp-christmas-special-giving-the-gift-of-data-6ecbf0313d62) (译者：[Laily123](https://github.com/Laily123))
 
-*  [So Yeah We Tried Slack… and We Deeply Regretted It](https://medium.freecodecamp.com/so-yeah-we-tried-slack-and-we-deeply-regretted-it-391bcc714c81) (译者：[dawnwenhui](https://github.com/dawnwenhui))
+* [So Yeah We Tried Slack… and We Deeply Regretted It](https://medium.freecodecamp.com/so-yeah-we-tried-slack-and-we-deeply-regretted-it-391bcc714c81) (译者：[dawnwenhui](https://github.com/dawnwenhui))
 
-* [So Yeah We Tried Slack… and We Deeply Regretted It](https://medium.freecodecamp.com/so-yeah-we-tried-slack-and-we-deeply-regretted-it-391bcc714c81) (译者：[jhonny-me](https://github.com/jhonny-me))
 
 需要校对、重新排版
 * [We asked 15,000 people who they are, and how they’re learning to code](https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781)
