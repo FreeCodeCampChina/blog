@@ -8,8 +8,6 @@ FreeCodeCampChina 正在招募翻译志愿者，内容来源自[FCC官方博客]
 
 未翻译的文章：
 
-* [Free Code Camp Christmas Special: Giving the Gift of Open Data](https://medium.freecodecamp.com/free-code-camp-christmas-special-giving-the-gift-of-data-6ecbf0313d62)
-
 * [Transparency in Action: Free Code Camp is Now Open Source](https://medium.freecodecamp.com/transparency-in-action-free-code-camp-is-now-open-source-9dae1985d925#.gzz9xmlvl)
 
 翻译中的文章：
