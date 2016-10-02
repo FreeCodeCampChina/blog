@@ -132,12 +132,4 @@ Free Code Camp Mexico City.
 ​小伙伴们，快乐编码，后会有期。
 ​Stay social! And happy coding!
 
-```
-freeCodeCamp 中文社区是由 猿生态开发者社群 运营，2016年4月，在全国各地近20名翻译志愿者的帮助下，完成了全部课程的翻译；目前在 苏州、北京、成都、上海、广州、深圳、武汉、天津、西安 等城市建立了线下编程学习社群，其他城市正在不断兴起，期待你的加入.....
-社区主页：www.freecodecamp.cn
-Github仓库：https://github.com/FreeCodeCampChina
-码云仓库：http://git.oschina.net/freecodecamp/freecodecamp.cn
-官方QQ群：526289580
-新浪微博：weibo.com/FreeCodeCamp/
-```
 
