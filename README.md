@@ -10,6 +10,8 @@ FreeCodeCampChina 正在招募翻译志愿者，内容来源自[FCC官方博客]
 
 * [Transparency in Action: Free Code Camp is Now Open Source](https://medium.freecodecamp.com/transparency-in-action-free-code-camp-is-now-open-source-9dae1985d925#.gzz9xmlvl)
 
+* [The best podcasts for new coders, and the best tools for listening to them](https://medium.freecodecamp.com/the-best-podcasts-for-new-coders-and-the-best-tools-for-listening-to-them-df393b1c8dc#.cn06so5lm)
+
 翻译中的文章：
 
 * [With open data, you finally get what you’ve paid for all these years](https://medium.freecodecamp.com/with-open-data-you-finally-get-what-your-taxes-already-paid-for-6f1990d98e9#.uve55q7zk) (译者：[yeszhangyi](https://github.com/yeszhangyi))
@@ -23,6 +25,7 @@ FreeCodeCampChina 正在招募翻译志愿者，内容来源自[FCC官方博客]
 * [Things you probably didn’t know you could do with Chrome’s Developer Console](https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.upid1kbj6)(译者：[jieniu](https://github.com/jieniu))
 
 需要校对、重新排版
+
 * [We asked 15,000 people who they are, and how they’re learning to code](https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781)
 
 * [Kopernik: A Nonprofit Project Retrospective](https://medium.freecodecamp.com/kopernik-retrospective-68685371b00b#.fkbnhehge)
