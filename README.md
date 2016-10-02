@@ -20,6 +20,8 @@ FreeCodeCampChina 正在招募翻译志愿者，内容来源自[FCC官方博客]
 
 * [How I built a mailing list signup form right into Medium using Google Forms](https://medium.freecodecamp.com/how-to-add-mailing-list-signup-to-your-medium-stories-using-google-forms-c717393b2f6#.bpyb8vafd) (译者：[jhonny-me](https://github.com/jhonny-me))
 
+* [Things you probably didn’t know you could do with Chrome’s Developer Console](https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.upid1kbj6)(译者：[jieniu](https://github.com/jieniu))
+
 需要校对、重新排版
 * [We asked 15,000 people who they are, and how they’re learning to code](https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781)
 
