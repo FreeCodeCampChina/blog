@@ -61,14 +61,17 @@
 通过右上角的菜单选择“设置”标签，确保“需要登录一栏”没有被限定为需要某一类用户。
 
 ![](https://cdn-images-1.medium.com/max/1600/1*cU2S2VW-sJ4xwm0jXR1H4A.png)
+
 第六部：增加配色。为什么不呢？
 点击右上角的调色板按钮。如果你想与众不同你也可以自己上传一张图片作为背景。
 
 ![](https://cdn-images-1.medium.com/max/1600/1*eXJeXb09Wyjav3WIERqVQw.png)
+
 ### 现在让我们将表单集成到Medium中去
 点击Google Form页面右上角的“发送”按钮。
 
 ![](https://cdn-images-1.medium.com/max/1600/1*-OgJrreJbNZFuLUSlb5wxw.png)
+
 点击像锁链一样的链接按钮，然后点击“短链接”。复制URL，然后回到Medium页面，粘贴，然后回车。
 
 一会儿后，Medium就会展示出你的表单的一张快照。一旦你点击了发布按钮，你的表单就会被集成到文章中一起发布，并且是完全可操作的。
