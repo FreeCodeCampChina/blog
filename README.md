@@ -20,6 +20,8 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 
 ### 1、未翻译的文章：
 
++ [JavaScript Fatigue Fatigue](https://medium.freecodecamp.com/javascript-fatigue-fatigue-66ffb619f6ce#.67f2lhseu) .
+
 
 ### 2、翻译中的文章：
 * [Transparency in Action: Free Code Camp is Now Open Source](https://medium.freecodecamp.com/transparency-in-action-free-code-camp-is-now-open-source-9dae1985d925#.gzz9xmlvl)(译者：[soyaine](https://github.com/soyaine))
@@ -51,7 +53,7 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 * [Open Source for Good](https://medium.freecodecamp.com/open-source-for-good-1a0ea9f32d5a)(译者：[cxhy@fcc杭州](https://github.com/cxhy) 校对：[JackJin@fcc苏州](https://github.com/JackJin2014))
 
 * [One year in the Free Code Camp Data Science Room](https://medium.freecodecamp.com/one-year-experience-in-the-free-code-camp-data-science-room-c97eb905af1f)(译者：[dawnwenhui@fcc北京](https://github.com/dawnwenhui)
-校对：[JackJin@fcc苏州](https://github.com/JackJin2014))
+  校对：[JackJin@fcc苏州](https://github.com/JackJin2014))
 
 
 ## 三、Original：原创
