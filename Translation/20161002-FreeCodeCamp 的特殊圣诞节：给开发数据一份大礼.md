@@ -51,7 +51,9 @@
 你可以通过这个磁力链接 [Academic Torrents](http://academictorrents.com/details/030b10dad0846b5aecc3905692890fb02404adbf)使用 BT 下载工具下载这个数据集（一个 344MB 的 tar.gz 文件）。
 
 注意这个数据集是使用的 [Open Database Commons Open Database License (ODbL)](http://opendatacommons.org/licenses/odbl/summary/) 协议。
+
 ![](http://7xqg0a.com1.z0.glb.clouddn.com/ODbL.jpeg)
+
 我们计划每个季度更新这个数据集，我们也计划以后尽可能多的公开我们的数据。
 
 我们欢迎任何对我们数据有兴趣的人给我们反馈，如果你需要我们分享其他的数据，或者有什么可以更轻松的分析这些数据的建议，请在下面留言。
