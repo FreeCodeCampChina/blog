@@ -23,7 +23,7 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 ### 2、翻译中的文章：
 * [Transparency in Action: Free Code Camp is Now Open Source](https://medium.freecodecamp.com/transparency-in-action-free-code-camp-is-now-open-source-9dae1985d925#.gzz9xmlvl)(译者：[soyaine](https://github.com/soyaine))
 * [I finally made sense of front end build tools. You can, too](https://medium.freecodecamp.com/making-sense-of-front-end-build-tools-3a1b3a87043b#.bwohq41ml)(译者：[jieniu](https://github.com/jieniu))
-* [So Yeah We Tried Slack… and We Deeply Regretted It](https://medium.freecodecamp.com/so-yeah-we-tried-slack-and-we-deeply-regretted-it-391bcc714c81) (译者：[dawnwenhui](https://github.com/dawnwenhui))
+
 * [JavaScript Fatigue Fatigue](https://medium.freecodecamp.com/javascript-fatigue-fatigue-66ffb619f6ce#.67f2lhseu) .(译者：cxhy)
 
 ### 3、未校对的文章：
@@ -42,6 +42,7 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 
 * [Free Code Camp Now Has an Official Theme Song](https://medium.freecodecamp.com/free-code-camp-now-has-an-official-theme-song-97765270d2bd?swoff=true#.11vmgznjx)(校对：？)
 
+* [So Yeah We Tried Slack… and We Deeply Regretted It](https://medium.freecodecamp.com/so-yeah-we-tried-slack-and-we-deeply-regretted-it-391bcc714c81) (译者：[dawnwenhui](https://github.com/dawnwenhui)))(校对:?)
 ### 4、已翻译的文章：
 
 * [The best podcasts for new coders, and the best tools for listening to them](https://medium.freecodecamp.com/the-best-podcasts-for-new-coders-and-the-best-tools-for-listening-to-them-df393b1c8dc#.cn06so5lm) (译者：[jhonny-me](https://github.com/jhonny-me)校对：[JackJin@fcc苏州](https://github.com/JackJin2014))
