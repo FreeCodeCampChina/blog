@@ -10,13 +10,13 @@
 
 因为一方面 web 本身就很复杂，而另一方面我们又希望本应该由我们做的事情被机器完成。
 
-这就导致了以 Javascript 工具为首的大量的开发工具飞速发展
+这就导致了大量的 Javascript 工具的飞速发展
 
 如果你对这种变化没有切身体会的话，那么阅读下面这篇文章可以帮助你了解一下 javascript 在2016的变化。
 
 [2016 年学习 Javascript 是什么感受？](https://zhuanlan.zhihu.com/p/22817885)
 
-下面的是另外一个例子
+下面的是DevOps工具发展一个例子
 
 [It's The Future](https://circleci.com/blog/its-the-future/)
 
