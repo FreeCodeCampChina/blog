@@ -20,6 +20,8 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 
 ### 1、未翻译的文章：​
 
+* [My journey to becoming a web developer from scratch without a CS degree, 2 years later (and what I learned from it)](https://medium.com/@sgarcia.dev/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503)
+
 ### 2、翻译中的文章：
 * [Transparency in Action: Free Code Camp is Now Open Source](https://medium.freecodecamp.com/transparency-in-action-free-code-camp-is-now-open-source-9dae1985d925#.gzz9xmlvl)(译者：[soyaine](https://github.com/soyaine))
 * [I finally made sense of front end build tools. You can, too](https://medium.freecodecamp.com/making-sense-of-front-end-build-tools-3a1b3a87043b#.bwohq41ml)(译者：[jieniu](https://github.com/jieniu))
