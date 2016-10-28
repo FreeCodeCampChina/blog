@@ -20,7 +20,7 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 
 ### 1、未翻译的文章：​
 
-* [My journey to becoming a web developer from scratch without a CS degree, 2 years later (and what I learned from it)](https://medium.com/@sgarcia.dev/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503)
+
 
 ### 2、翻译中的文章：
 * [Transparency in Action: Free Code Camp is Now Open Source](https://medium.freecodecamp.com/transparency-in-action-free-code-camp-is-now-open-source-9dae1985d925#.gzz9xmlvl)(译者：[soyaine](https://github.com/soyaine))
@@ -46,6 +46,8 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 
 * [One year in the Free Code Camp Data Science Room](https://medium.freecodecamp.com/one-year-experience-in-the-free-code-camp-data-science-room-c97eb905af1f)(译者：[dawnwenhui@fcc北京](https://github.com/dawnwenhui)
   校对：[JackJin@fcc苏州](https://github.com/JackJin2014))
+
+* [My journey to becoming a web developer from scratch without a CS degree, 2 years later (and what I learned from it)](https://medium.com/@sgarcia.dev/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503)(译者：[@discountry](https://github.com/discountry))
 
 
 ## 三、Original：原创
