@@ -32,7 +32,6 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 * [JavaScript Fatigue Fatigue](https://medium.freecodecamp.com/javascript-fatigue-fatigue-66ffb619f6ce#.67f2lhseu) .(译者：[cxhy](https://github.com/cxhy))(校对：？)
 * [With open data, you finally get what you’ve paid for all these years](https://medium.freecodecamp.com/with-open-data-you-finally-get-what-your-taxes-already-paid-for-6f1990d98e9#.uve55q7zk) (译者：[yeszhangyi](https://github.com/yeszhangyi))(校对：？)
 * [Things you probably didn’t know you could do with Chrome’s Developer Console](https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.upid1kbj6)(译者：[jieniu](https://github.com/jieniu))(校对：？)
-* [How I built a mailing list signup form right into Medium using Google Forms](https://medium.freecodecamp.com/how-to-add-mailing-list-signup-to-your-medium-stories-using-google-forms-c717393b2f6#.bpyb8vafd) (译者：[jhonny-me](https://github.com/jhonny-me))(校对：？)
 * [Free Code Camp Christmas Special: Giving the Gift of Open Data](https://medium.freecodecamp.com/free-code-camp-christmas-special-giving-the-gift-of-data-6ecbf0313d62) (译者：[Laily123](https://github.com/Laily123))(校对：？)
 * [We asked 15,000 people who they are, and how they’re learning to code](https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781)(校对：？)
 * [Kopernik: A Nonprofit Project Retrospective](https://medium.freecodecamp.com/kopernik-retrospective-68685371b00b#.fkbnhehge)(校对：？)
@@ -48,6 +47,8 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
   校对：[JackJin@fcc苏州](https://github.com/JackJin2014))
 
 * [My journey to becoming a web developer from scratch without a CS degree, 2 years later (and what I learned from it)](https://medium.com/@sgarcia.dev/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503)(译者：[@discountry](https://github.com/discountry))
+
+* [How I built a mailing list signup form right into Medium using Google Forms](https://medium.freecodecamp.com/how-to-add-mailing-list-signup-to-your-medium-stories-using-google-forms-c717393b2f6#.bpyb8vafd) (译者：[jhonny-me](https://github.com/jhonny-me))(校对：[@huluoyang](https://github.com/huluoyang))
 
 
 ## 三、Original：原创
