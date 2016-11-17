@@ -24,6 +24,7 @@ React这么火，我就不多说了。Redux是一个类flux的应用框架，和
 
 1. store：创建一个唯一的store，存放项目中所有的数据。
 2. reducers: 初始化store的部分内容，在这里是个空对象。还有处理store的函数，这里只有一个init的工作，就是用action中传过来的chats字段替换当前的state，这里的业务逻辑对应的是，每当聊天室有新的消息传过来，都会整个替换当前的聊天内容，这里可能会有疑问为什么要这样，主要是因为wilddog传给我的就是一个完整的列表，后面仔细会介绍wilddog。
+
   ![alt](http://sugarball.me/content/images/2016/03/A0824036-A58B-4F5B-A7FF-9CA2B54AF04A.png)
 3. action : 只是一个简单的表示操作动作的对象。
   ![alt](http://sugarball.me/content/images/2016/03/841086AF-B725-4DEF-A489-292FD603BE8F.png)
