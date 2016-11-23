@@ -1,9 +1,8 @@
 # 开源行动：Free Code Camp 正式开源
 
 > 原文链接：[Transparency in Action: Free Code Camp is Now Open Source](https://medium.freecodecamp.com/transparency-in-action-free-code-camp-is-now-open-source-9dae1985d925#.1zh20tm2o)
-> 
+> 作者：[Free Code Camp](https://medium.freecodecamp.com/@FreeCodeCamp?source=post_header_lockup)
 > 信息： 2014 年 11 月 29 日发布在 blog.freecodecamp.com
-> 
 > 译者： [soyaine](http://github.com/soyaine)
 
 我很高兴宣布 Free Code Camp（注：以下简称 FCC） 从此[完全开源](https://github.com/freecodecamp/freecodecamp)。现在你能 Fork 我们的代码，用来建立你自己的教育社区。如果你发现了 bug 或者对我们有优化的建议，请直接通过 Pull Request 来告诉我们。
