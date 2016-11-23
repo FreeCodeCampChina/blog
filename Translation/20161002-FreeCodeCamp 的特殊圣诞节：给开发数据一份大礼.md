@@ -1,5 +1,10 @@
 ## FreeCodeCamp 的特别圣诞节：给开发数据一份大礼
-![](http://7xqg0a.com1.z0.glb.clouddn.com/data.jpeg)
+>原文：[Free Code Camp Christmas Special: Giving the Gift of Open Data](https://medium.freecodecamp.com/free-code-camp-christmas-special-giving-the-gift-of-data-6ecbf0313d62#.j8rfmv1jt) 
+作者：[Quincy Larson](https://medium.freecodecamp.com/@quincylarson)
+翻译：[Laily](https://github.com/Laily123)
+校对：[jhonny-me@fcc苏州](https://github.com/jhonny-me)
+
+![](ogit74i74.bkt.clouddn.com/d7ec5f5ae4211041d1b9bf2810ba9ed9_image_0.jpeg)
 在过去的几个月里，有数不清的研究人员和科学家们问起我们的系统数据，在这里，祝你们：圣诞节快乐！
 
 自从14个月前启动了我们的开源社区，公开这些数据就作为我们的一个目标了。
@@ -52,7 +57,7 @@
 
 注意这个数据集是使用的 [Open Database Commons Open Database License (ODbL)](http://opendatacommons.org/licenses/odbl/summary/) 协议。
 
-![](http://7xqg0a.com1.z0.glb.clouddn.com/ODbL.jpeg)
+![](ogit74i74.bkt.clouddn.com/d7ec5f5ae4211041d1b9bf2810ba9ed9_image_1.jpeg)
 
 我们计划每个季度更新这个数据集，我们也计划以后尽可能多的公开我们的数据。
 
