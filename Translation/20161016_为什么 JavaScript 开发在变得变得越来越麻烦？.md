@@ -1,6 +1,10 @@
 # 为什么 JavaScript 开发变得变得越来越麻烦？
 
-![](http://p1.bpimg.com/4851/eb2075626f6c26dc.jpg)
+> 原文链接：[JavaScript Fatigue Fatigue](https://medium.freecodecamp.com/javascript-fatigue-fatigue-66ffb619f6ce#.v7dgnggrc)
+> 作者：[Quincy Larson](https://medium.freecodecamp.com/@quincylarson?source=post_header_lockup)
+> 译者：[cxhy](https://github.com/cxhy)
+
+![](ogit74i74.bkt.clouddn.com/7cacb28dacb0c78fd3e414f11e2b9960_image_0.jpg)
 
 > “宇宙如何运转，不需要向你解释” 								——奈尔·德葛拉司·泰森
 
@@ -22,11 +26,11 @@
 
 我列举上面两个例子说告诉你们 Javascript 开发很复杂这这个事实，但是我希望你们能了解的是 Javascript 开发之所以复杂是因为 **WEB 本身就是复杂的。** 
 
-![](http://i1.piimg.com/4851/2c8410d7b156406b.png)
+![](ogit74i74.bkt.clouddn.com/7cacb28dacb0c78fd3e414f11e2b9960_image_1.png)
 
 在无数的工程师的努力下，我们的设计可以在数以千计的设备上正常工作；让人们即使在地铁中也能保证稳定的访问速度；我们甚至努力让盲人也享受到技术进步带来的好处。
 
-![](http://i1.piimg.com/4851/896bbb2db6bb022b.jpg)
+![](ogit74i74.bkt.clouddn.com/7cacb28dacb0c78fd3e414f11e2b9960_image_2.jpg)
 
 与此同时，web 开发者们也在你看不到地方修补所有已知的安全漏洞。
 
@@ -44,7 +48,7 @@
 
 而如今，让每一个开发者欣喜的是 Javascript 开发工具的生态系统已经建立起来了。
 
-![](http://i1.piimg.com/4851/02ec01d3eeb98a8d.png)
+![](ogit74i74.bkt.clouddn.com/7cacb28dacb0c78fd3e414f11e2b9960_image_3.png)
 
 但是开发工具的生态环境之所以能够像寒武纪大爆发一样的快速发展却不是由苹果或者微软公司所推动的；
 
@@ -52,7 +56,7 @@
 
 下面这个小漫画完美展现了那些声称“Javascript 太麻烦了”的开发者和我们的矛盾所在，就像阿历克斯博士在[今年早些时候](http://www.2ality.com/2016/02/js-fatigue-fatigue.html)说的那样“Javascript 开发越来越麻烦了”
 
-![](http://i1.piimg.com/4851/66a7e25a2b5f038d.png)
+![](ogit74i74.bkt.clouddn.com/7cacb28dacb0c78fd3e414f11e2b9960_image_4.png)
 
 我们正在尽最大的努力为选择工具提供有帮助的建议。我们正在引导缺乏经验的工程师远离尚未通过验证的工具。我们会告诉每一个工程师——[成为一个合格的工程师是要付出大量的努力的](https://medium.freecodecamp.com/one-does-not-simply-learn-to-code-f25bacdc5b62#.viidb20k4),而学习使用新工具则是必不可少的一部分。
 
