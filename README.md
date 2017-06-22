@@ -20,6 +20,11 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 
 ### 1、未翻译的文章：​
 * [Let’s explore ES6 Generators](https://medium.freecodecamp.com/lets-explore-es6-generators-5e58ed23b0f1)
+* [Our large team of engineers use this front end development guide](https://medium.freecodecamp.com/grabs-front-end-guide-for-large-teams-484d4033cc41)
+* [You’ve been building your community the wrong way](https://medium.freecodecamp.com/how-build-community-network-hackhorizon-d24fd555b8c3)
+* [Mastering Chrome Developer Tools: Next Level Front-End Development Techniques](https://medium.freecodecamp.com/mastering-chrome-developer-tools-next-level-front-end-development-techniques-3ac0b6fe8a3)
+* [Google not, learn not: why searching can sometimes be better than knowing](https://medium.freecodecamp.com/google-not-learn-not-why-searching-can-be-better-than-knowing-79838f7a0f06)
+* [How to Go From Hobbyist to Professional Developer](https://medium.freecodecamp.com/how-to-go-from-hobbyist-to-professional-developer-11a8b8a52b5f)
 
 
 ### 2、翻译中的文章：
