@@ -19,7 +19,7 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 ## 二、翻译进度
 
 ### 1、未翻译的文章：​
-
+* [Let’s explore ES6 Generators](https://medium.freecodecamp.com/lets-explore-es6-generators-5e58ed23b0f1)
 
 
 ### 2、翻译中的文章：
