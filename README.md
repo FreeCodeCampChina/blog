@@ -30,8 +30,6 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 
 
 ### 2、翻译中的文章：
-* [Let’s explore ES6 Generators](https://medium.freecodecamp.com/lets-explore-es6-generators-5e58ed23b0f1)(译者：[soyaine](https://github.com/soyaine))
-
 * [I’m learning to code at 56. Here’s an epic beat-down of my critical inner self.](https://medium.freecodecamp.com/yes-im-56-and-learning-to-code-f33abea6fd4c)(译者：[yeszhangyi](https://github.com/yeszhangyi))
 
 * [I finally made sense of front end build tools. You can, too](https://medium.freecodecamp.com/making-sense-of-front-end-build-tools-3a1b3a87043b#.bwohq41ml)(译者：[jieniu](https://github.com/jieniu))
@@ -39,7 +37,6 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 * [So Yeah We Tried Slack… and We Deeply Regretted It](https://medium.freecodecamp.com/so-yeah-we-tried-slack-and-we-deeply-regretted-it-391bcc714c81) (译者：[dawnwenhui](https://github.com/dawnwenhui))
 
 ### 3、未校对的文章：
-
 * [JavaScript Fatigue Fatigue](https://medium.freecodecamp.com/javascript-fatigue-fatigue-66ffb619f6ce#.67f2lhseu) .(译者：[cxhy](https://github.com/cxhy))(校对：？)
 
 * [With open data, you finally get what you’ve paid for all these years](https://medium.freecodecamp.com/with-open-data-you-finally-get-what-your-taxes-already-paid-for-6f1990d98e9#.uve55q7zk) (译者：[yeszhangyi](https://github.com/yeszhangyi))(校对：？)
@@ -55,6 +52,8 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 * [Free Code Camp Now Has an Official Theme Song](https://medium.freecodecamp.com/free-code-camp-now-has-an-official-theme-song-97765270d2bd?swoff=true#.11vmgznjx)(校对：？)
 
 ### 4、已翻译的文章：
+* [Let’s explore ES6 Generators](https://medium.freecodecamp.com/lets-explore-es6-generators-5e58ed23b0f1)(译者：[soyaine](https://github.com/soyaine))校对：[winar-jin](https://github.com/winar-jin))
+
 
 * [The best podcasts for new coders, and the best tools for listening to them](https://medium.freecodecamp.com/the-best-podcasts-for-new-coders-and-the-best-tools-for-listening-to-them-df393b1c8dc#.cn06so5lm) (译者：[jhonny-me](https://github.com/jhonny-me)校对：[JackJin@fcc苏州](https://github.com/JackJin2014))
 
