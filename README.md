@@ -19,7 +19,6 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 ## 二、翻译进度
 
 ### 1、未翻译的文章：​
-* [Lessons from my first year of live coding on Twitch](https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1)
 * [We analyzed thousands of coding interviews. Here’s what we learned.](https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50)
 * [Our large team of engineers use this front end development guide](https://medium.freecodecamp.com/grabs-front-end-guide-for-large-teams-484d4033cc41)
 * [You’ve been building your community the wrong way](https://medium.freecodecamp.com/how-build-community-network-hackhorizon-d24fd555b8c3)
@@ -31,6 +30,8 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 
 
 ### 2、翻译中的文章：
+* [Lessons from my first year of live coding on Twitch](https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1)(译者：[winar-jin](https://github.com/winar-jin))
+
 * [I’m learning to code at 56. Here’s an epic beat-down of my critical inner self.](https://medium.freecodecamp.com/yes-im-56-and-learning-to-code-f33abea6fd4c)(译者：[yeszhangyi](https://github.com/yeszhangyi))
 
 * [I finally made sense of front end build tools. You can, too](https://medium.freecodecamp.com/making-sense-of-front-end-build-tools-3a1b3a87043b#.bwohq41ml)(译者：[jieniu](https://github.com/jieniu))
