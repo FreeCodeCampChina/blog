@@ -30,8 +30,6 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 
 
 ### 2、翻译中的文章：
-* [Lessons from my first year of live coding on Twitch](https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1)(译者：[winar-jin](https://github.com/winar-jin))
-
 * [I’m learning to code at 56. Here’s an epic beat-down of my critical inner self.](https://medium.freecodecamp.com/yes-im-56-and-learning-to-code-f33abea6fd4c)(译者：[yeszhangyi](https://github.com/yeszhangyi))
 
 * [I finally made sense of front end build tools. You can, too](https://medium.freecodecamp.com/making-sense-of-front-end-build-tools-3a1b3a87043b#.bwohq41ml)(译者：[jieniu](https://github.com/jieniu))
@@ -39,6 +37,8 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 * [So Yeah We Tried Slack… and We Deeply Regretted It](https://medium.freecodecamp.com/so-yeah-we-tried-slack-and-we-deeply-regretted-it-391bcc714c81) (译者：[dawnwenhui](https://github.com/dawnwenhui))
 
 ### 3、未校对的文章：
+* [Lessons from my first year of live coding on Twitch](https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1)(译者：[winar-jin](https://github.com/winar-jin))
+
 * [JavaScript Fatigue Fatigue](https://medium.freecodecamp.com/javascript-fatigue-fatigue-66ffb619f6ce#.67f2lhseu) .(译者：[cxhy](https://github.com/cxhy))(校对：？)
 
 * [With open data, you finally get what you’ve paid for all these years](https://medium.freecodecamp.com/with-open-data-you-finally-get-what-your-taxes-already-paid-for-6f1990d98e9#.uve55q7zk) (译者：[yeszhangyi](https://github.com/yeszhangyi))(校对：？)
