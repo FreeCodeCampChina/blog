@@ -19,6 +19,7 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 ## 二、翻译进度
 
 ### 1、未翻译的文章：​
+* [The Battle for the Net: freeCodeCamp Joins the July 12 Fight for Net Neutrality](https://medium.freecodecamp.org/the-battle-for-the-net-freecodecamp-joins-the-july-12-fight-for-net-neutrality-f96539729c5d)
 * [My winding road from security guard to back-end developer](https://medium.freecodecamp.org/from-self-taught-coder-to-professional-backend-developer-my-long-winding-road-d8f7c428b637)
 * [We analyzed thousands of coding interviews. Here’s what we learned.](https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50)
 * [Our large team of engineers use this front end development guide](https://medium.freecodecamp.com/grabs-front-end-guide-for-large-teams-484d4033cc41)
