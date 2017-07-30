@@ -20,7 +20,7 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 
 ### 1、未翻译的文章：​
 * [The Battle for the Net: freeCodeCamp Joins the July 12 Fight for Net Neutrality](https://medium.freecodecamp.org/the-battle-for-the-net-freecodecamp-joins-the-july-12-fight-for-net-neutrality-f96539729c5d)
-* [My winding road from security guard to back-end developer](https://medium.freecodecamp.org/from-self-taught-coder-to-professional-backend-developer-my-long-winding-road-d8f7c428b637)
+
 * [We analyzed thousands of coding interviews. Here’s what we learned.](https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50)
 * [Our large team of engineers use this front end development guide](https://medium.freecodecamp.com/grabs-front-end-guide-for-large-teams-484d4033cc41)
 * [You’ve been building your community the wrong way](https://medium.freecodecamp.com/how-build-community-network-hackhorizon-d24fd555b8c3)
@@ -32,6 +32,8 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 
 
 ### 2、翻译中的文章：
+* [My winding road from security guard to back-end developer](https://medium.freecodecamp.org/from-self-taught-coder-to-professional-backend-developer-my-long-winding-road-d8f7c428b637)(译者：[miya](https://github.com/miyaliu666))
+
 * [I’m learning to code at 56. Here’s an epic beat-down of my critical inner self.](https://medium.freecodecamp.com/yes-im-56-and-learning-to-code-f33abea6fd4c)(译者：[yeszhangyi](https://github.com/yeszhangyi))
 
 * [I finally made sense of front end build tools. You can, too](https://medium.freecodecamp.com/making-sense-of-front-end-build-tools-3a1b3a87043b#.bwohq41ml)(译者：[jieniu](https://github.com/jieniu))
