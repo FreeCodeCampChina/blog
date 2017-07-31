@@ -32,7 +32,6 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 
 
 ### 2、翻译中的文章：
-* [My winding road from security guard to back-end developer](https://medium.freecodecamp.org/from-self-taught-coder-to-professional-backend-developer-my-long-winding-road-d8f7c428b637)(译者：[miya](https://github.com/miyaliu666))
 
 * [I’m learning to code at 56. Here’s an epic beat-down of my critical inner self.](https://medium.freecodecamp.com/yes-im-56-and-learning-to-code-f33abea6fd4c)(译者：[yeszhangyi](https://github.com/yeszhangyi))
 
@@ -58,8 +57,10 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 * [Free Code Camp Now Has an Official Theme Song](https://medium.freecodecamp.com/free-code-camp-now-has-an-official-theme-song-97765270d2bd?swoff=true#.11vmgznjx)(校对：？)
 
 ### 4、已翻译的文章：
-* [Let’s explore ES6 Generators](https://medium.freecodecamp.com/lets-explore-es6-generators-5e58ed23b0f1)(译者：[soyaine](https://github.com/soyaine))校对：[winar-jin](https://github.com/winar-jin))
 
+* [My winding road from security guard to back-end developer](https://medium.freecodecamp.org/from-self-taught-coder-to-professional-backend-developer-my-long-winding-road-d8f7c428b637)(译者：[miya](https://github.com/miyaliu666))
+
+* [Let’s explore ES6 Generators](https://medium.freecodecamp.com/lets-explore-es6-generators-5e58ed23b0f1)(译者：[soyaine](https://github.com/soyaine))校对：[winar-jin](https://github.com/winar-jin))
 
 * [The best podcasts for new coders, and the best tools for listening to them](https://medium.freecodecamp.com/the-best-podcasts-for-new-coders-and-the-best-tools-for-listening-to-them-df393b1c8dc#.cn06so5lm) (译者：[jhonny-me](https://github.com/jhonny-me)校对：[JackJin@fcc苏州](https://github.com/JackJin2014))
 
