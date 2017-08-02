@@ -26,12 +26,13 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 * [You’ve been building your community the wrong way](https://medium.freecodecamp.com/how-build-community-network-hackhorizon-d24fd555b8c3)
 * [Mastering Chrome Developer Tools: Next Level Front-End Development Techniques](https://medium.freecodecamp.com/mastering-chrome-developer-tools-next-level-front-end-development-techniques-3ac0b6fe8a3)
 * [Google not, learn not: why searching can sometimes be better than knowing](https://medium.freecodecamp.com/google-not-learn-not-why-searching-can-be-better-than-knowing-79838f7a0f06)
-* [How to Go From Hobbyist to Professional Developer](https://medium.freecodecamp.com/how-to-go-from-hobbyist-to-professional-developer-11a8b8a52b5f)
 * [How I transformed from a 30-year-old plumber into a 32-year-old web developer](https://medium.freecodecamp.org/how-i-transformed-from-a-30-year-old-plumber-into-a-32-year-old-web-developer-c0cfda7dc23a)
 * [How I convinced an employer to take a chance on me and pay me to learn to code.](https://medium.freecodecamp.org/getting-your-first-developer-job-whats-the-best-way-1737d0bcba7a)
 
 
 ### 2、翻译中的文章：
+
+* [How to Go From Hobbyist to Professional Developer](https://medium.freecodecamp.com/how-to-go-from-hobbyist-to-professional-developer-11a8b8a52b5f)(译者：[miya](https://github.com/miyaliu666))
 
 * [I’m learning to code at 56. Here’s an epic beat-down of my critical inner self.](https://medium.freecodecamp.com/yes-im-56-and-learning-to-code-f33abea6fd4c)(译者：[yeszhangyi](https://github.com/yeszhangyi))
 
