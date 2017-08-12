@@ -21,18 +21,20 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 ### 1、未翻译的文章：​
 * [How freeCodeCamp helped me get a job and turn my life around](https://medium.freecodecamp.org/how-freecodecamp-helped-me-get-a-job-and-turn-my-life-around-5ffe807085cf?source=collection_home---6------0--------------)
 * [The Battle for the Net: freeCodeCamp Joins the July 12 Fight for Net Neutrality](https://medium.freecodecamp.org/the-battle-for-the-net-freecodecamp-joins-the-july-12-fight-for-net-neutrality-f96539729c5d)
-* [My winding road from security guard to back-end developer](https://medium.freecodecamp.org/from-self-taught-coder-to-professional-backend-developer-my-long-winding-road-d8f7c428b637)
+
 * [We analyzed thousands of coding interviews. Here’s what we learned.](https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50)
 * [Our large team of engineers use this front end development guide](https://medium.freecodecamp.com/grabs-front-end-guide-for-large-teams-484d4033cc41)
 * [You’ve been building your community the wrong way](https://medium.freecodecamp.com/how-build-community-network-hackhorizon-d24fd555b8c3)
 * [Mastering Chrome Developer Tools: Next Level Front-End Development Techniques](https://medium.freecodecamp.com/mastering-chrome-developer-tools-next-level-front-end-development-techniques-3ac0b6fe8a3)
 * [Google not, learn not: why searching can sometimes be better than knowing](https://medium.freecodecamp.com/google-not-learn-not-why-searching-can-be-better-than-knowing-79838f7a0f06)
-* [How to Go From Hobbyist to Professional Developer](https://medium.freecodecamp.com/how-to-go-from-hobbyist-to-professional-developer-11a8b8a52b5f)
 * [How I transformed from a 30-year-old plumber into a 32-year-old web developer](https://medium.freecodecamp.org/how-i-transformed-from-a-30-year-old-plumber-into-a-32-year-old-web-developer-c0cfda7dc23a)
 * [How I convinced an employer to take a chance on me and pay me to learn to code.](https://medium.freecodecamp.org/getting-your-first-developer-job-whats-the-best-way-1737d0bcba7a)
 
 
 ### 2、翻译中的文章：
+
+* [How to Go From Hobbyist to Professional Developer](https://medium.freecodecamp.com/how-to-go-from-hobbyist-to-professional-developer-11a8b8a52b5f)(译者：[miya](https://github.com/miyaliu666))
+
 * [I’m learning to code at 56. Here’s an epic beat-down of my critical inner self.](https://medium.freecodecamp.com/yes-im-56-and-learning-to-code-f33abea6fd4c)(译者：[yeszhangyi](https://github.com/yeszhangyi))
 
 * [I finally made sense of front end build tools. You can, too](https://medium.freecodecamp.com/making-sense-of-front-end-build-tools-3a1b3a87043b#.bwohq41ml)(译者：[jieniu](https://github.com/jieniu))
@@ -57,8 +59,10 @@ issue 内容包括：公司/学校、工作内容/专业、常浏览的国外网
 * [Free Code Camp Now Has an Official Theme Song](https://medium.freecodecamp.com/free-code-camp-now-has-an-official-theme-song-97765270d2bd?swoff=true#.11vmgznjx)(校对：？)
 
 ### 4、已翻译的文章：
-* [Let’s explore ES6 Generators](https://medium.freecodecamp.com/lets-explore-es6-generators-5e58ed23b0f1)(译者：[soyaine](https://github.com/soyaine))校对：[winar-jin](https://github.com/winar-jin))
 
+* [My winding road from security guard to back-end developer](https://medium.freecodecamp.org/from-self-taught-coder-to-professional-backend-developer-my-long-winding-road-d8f7c428b637)(译者：[miya](https://github.com/miyaliu666))
+
+* [Let’s explore ES6 Generators](https://medium.freecodecamp.com/lets-explore-es6-generators-5e58ed23b0f1)(译者：[soyaine](https://github.com/soyaine))校对：[winar-jin](https://github.com/winar-jin))
 
 * [The best podcasts for new coders, and the best tools for listening to them](https://medium.freecodecamp.com/the-best-podcasts-for-new-coders-and-the-best-tools-for-listening-to-them-df393b1c8dc#.cn06so5lm) (译者：[jhonny-me](https://github.com/jhonny-me)校对：[JackJin@fcc苏州](https://github.com/JackJin2014))
 
